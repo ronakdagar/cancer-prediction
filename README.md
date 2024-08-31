@@ -10,3 +10,4 @@ Confusion Matrix :
  [ 0 39]]
  
 ![image](https://github.com/user-attachments/assets/875d6475-4a98-45c3-96ed-1ddaa9c372c8)
+![image](https://github.com/user-attachments/assets/f82f1d63-90f6-4c1a-8546-47aa8ae5d43a)
