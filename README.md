@@ -1,5 +1,7 @@
 # cancer-prediction
 
+Random forest algorithm
+
 Accuracy Score 0.9824561403508771
 
 Accuracy of Random Forest  0.9824561403508771
